@@ -1,7 +1,7 @@
 # ProjetoFinal
 Repositorio da atividade final
 
-**A primeira atividade consiste em criar um algoritmo de numeros aleatorios**###
+###**A primeira atividade consiste em criar um algoritmo de numeros aleatorios**
 
 Criado um alogoritmo que cria um array de numeros aleatorios
 
@@ -11,7 +11,7 @@ Saida é: um arranjo aleatorio
 Exemplo: tamanho do aranjo é 5 numeros, de 1 a 10;
 Saida sera: 4,9,2,5,1
 
-**A segunda atividade consiste num algirtmo que mostra o numero mais repetido do arranjo**###
+###**A segunda atividade consiste num algirtmo que mostra o numero mais repetido do arranjo**###
 
 Criado um algoritmo que pega o arranjo aleatorio da atividade anterios e mostra os numeros mais repetidos
 
